@@ -8,6 +8,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
 /* NAV-BAR */
 
 ul{
